@@ -135,7 +135,7 @@ LIMIT 1;
 ```
 Retail-Store-Analytics/
 │
-├── retail_store.sql   # All SQL queries (150 questions)
+├── sql_assignment.sql   # All SQL queries (150 questions)
 ├── README.md          # Project documentation
 ```
 
